@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @oddir
+- 👀 I’m interested in programming
+- 🌱 I’m currently learning Rust and Nim
+- 💞️ I’m looking to collaborate on cool projects
